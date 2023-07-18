@@ -1,0 +1,1 @@
+<script type="text/javascript"><%@ include file="/js/inicio.js" %></script>

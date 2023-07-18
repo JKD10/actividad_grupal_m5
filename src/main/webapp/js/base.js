@@ -1,0 +1,3 @@
+/**
+ * Posibles funciones globales
+ */
